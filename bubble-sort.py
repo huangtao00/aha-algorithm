@@ -10,7 +10,5 @@ for i in range(len(num)):
 			temp=num[j]
 			num[j]=num[j+1]
 			num[j+1]=temp
-
-
 print ("sorted numbers:{}".format(num))
 
