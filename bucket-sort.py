@@ -1,6 +1,8 @@
 #!coding:utf8
 import random
 num=random.choices(range(0,11),k=10)  #choose 10 number for 0 to 10 randomly
+welcome="="*14+"\n"+"bucket sort"+"\n"+"="*14
+print (welcome)
 
 book=[0 for i in range(11)]
 # print (book)

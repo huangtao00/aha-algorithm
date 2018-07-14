@@ -1,3 +1,4 @@
+#!coding:utf8
 import random
 num=random.choices(range(0,11),k=12)
 welcome="="*14+"\n"+"bubble sort"+"\n"+"="*14
